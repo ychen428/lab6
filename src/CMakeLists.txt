@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(SpMV)
+project(lab6SpMV)
 
-add_library(SpMV STATIC SpMV.cpp)
+add_library(SpMV STATIC spmv.cpp)
 

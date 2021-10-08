@@ -1,6 +1,6 @@
 #include "spmv.hpp"
 
-int hello(int argc, char** argv){
+int hello(){
 	std::cout << "Hello World" << std::endl;
 	return 0;
 }
