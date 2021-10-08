@@ -1,0 +1,5 @@
+/Users/ychen428/Projects/ners570/ners570f21-Lab06/CMakeFiles/rebuild_cache.dir
+/Users/ychen428/Projects/ners570/ners570f21-Lab06/CMakeFiles/edit_cache.dir
+/Users/ychen428/Projects/ners570/ners570f21-Lab06/src/CMakeFiles/rebuild_cache.dir
+/Users/ychen428/Projects/ners570/ners570f21-Lab06/src/CMakeFiles/edit_cache.dir
+/Users/ychen428/Projects/ners570/ners570f21-Lab06/src/CMakeFiles/SpMV.dir
